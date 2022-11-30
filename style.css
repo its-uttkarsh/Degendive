@@ -62,6 +62,18 @@ nav ul li a{
     border-radius: 10px;
 }
 
-.text-box1{
+.text-box img {
+    position: absolute;
+    top: 100%;
+    right: 12%
+}
+
+.text-box1 h1{
+    position: relative;
+    top: 100%;
+    left: 60%;
+    font-size: 60px;
+    margin-bottom: 20px;
+    color: aliceblue;
     
 }
